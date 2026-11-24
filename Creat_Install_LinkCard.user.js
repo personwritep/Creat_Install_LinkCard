@@ -2,7 +2,7 @@
 // @name        Creat Install LinkCard 🔵
 // @namespace        http://tampermonkey.net/
 // @version        0.1
-// @description        GitHubのリポジトリで起動用リンクカードを生成　ショートカット「F6」
+// @description        リポジトリでインストール用リンクカードを生成　ショートカット「F6」
 // @author        personwritep
 // @match        https://github.com/*
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=github.com
